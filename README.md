@@ -30,4 +30,4 @@ add ability for custom data structure to be considered truthy/falsy
 * python 3.8.5 
 * poetry shell 
 
-## PR: 
+## PR:  https://github.com/RoaaMustafa/pythonisms/pull/1
